@@ -1,0 +1,76 @@
+//Exercícios de Interpretação:
+//1.
+//(False) (False) (True) (Boolean)
+ 
+
+
+//2. Será impresso os números em forma de palavra
+
+//3.
+
+//let primeiroNumero = prompt("digite um numero")
+//let segundoNumero = prompt("digite outro numero")
+
+//const soma = (Number(primeiroNumero) + Number(segundoNumero))
+
+//console.log(soma)
+
+
+//Exercícios de Escrita:
+
+
+
+//1.
+//let idade = prompt("Qual a sua idade?");
+//let idadeAmigo = prompt("Qual a idade do(a) seu melhor amigo(a)?");
+
+//const maior = (Number(idade) <= Number(idadeAmigo));
+
+//console.log("Sua idade é maior do que a do seu amigo?", maior);
+
+//console.log(Number(idade) - Number(idadeAmigo));
+
+
+
+//2.
+//let numero = prompt("Insira um número par:");
+
+//const divisao = (Number(numero) / 2);
+
+//console.log(divisao);  
+
+//R: Se os números forem par, o resultado sempre será par
+
+//R: O resultado se torna ímpar
+
+//3.
+ //let idade = prompt("Qual a sua idade?");
+
+ //const meses = (Number(idade) * 12);
+
+ //console.log(meses)
+
+ //const dias = (Number(idade) * 365);
+
+ //console.log(dias)
+
+ //const horas = (Number(idade) * 8766);
+
+ //console.log(horas);
+
+//4.
+
+//let numeroUm = prompt("Digite um número");
+//let numeroDois = prompt("Digite outro número");
+
+//const maior = (Number(numeroUm) >= Number(numeroDois));
+
+//console.log("O primeiro número é maior que o segundo?", maior)
+
+//const igual = (Number(numeroUm) === Number(numeroDois));
+
+//console.log("O primeiro número é igual ao segundo?", igual);  
+
+//console.log("O primeiro número é divisível pelo segundo?", Boolean(numeroUm % numeroDois));
+
+//console.log("O segundo número é divisível pelo primeiro?", Boolean(numeroDois % numeroUm));
